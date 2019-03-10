@@ -8,6 +8,7 @@ to filter out data.
 2. Predictive Analysis/ Classification: Data is shrunk in volume as some predictive analysis and classification is performed
 using Random forest algorithm coupled with time series analysis to draw results which can be further used by the central
 cloud to draw useful insights.
+
 The reduced smart data received from these distributed gateways is coupled at the central smartcloud to draw relevant insights.
 The cloud is also enabled with the following feature making it novel and smart:
 1. Autonomous IoT device assignment to gateway: Based upon various properties(cpu utilization, network type, data
